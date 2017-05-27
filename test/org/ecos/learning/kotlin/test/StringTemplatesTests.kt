@@ -1,3 +1,5 @@
+package org.ecos.learning.kotlin.test
+
 import org.ecos.learning.kotlin.StringTemplates
 import org.hamcrest.CoreMatchers.`is`
 import org.hamcrest.CoreMatchers.equalTo

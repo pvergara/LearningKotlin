@@ -10,6 +10,6 @@ class StringTemplates {
 
         val s2 = "${s1.replace("is", "was")}, but now is $a"
 
-        return Pair(s1,s2);
+        return Pair(s1,s2)
     }
 }
